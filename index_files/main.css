@@ -457,7 +457,7 @@ div.child.section-upload {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   z-index: 1000;
   text-align: center;
-  color: #FF8A8A;
+  color: #FFDBD5;
 }
 
 .success-popup.show {
@@ -752,7 +752,7 @@ input:focus {
 
 .dz-error-mark {
   border-radius: 50%;
-  background: #FF8A8A;
+  background: #FFDBD5;
 }
 
 .dz-success-mark {
