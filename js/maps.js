@@ -14,11 +14,11 @@ function openMap1() {
 }
 // Hàm mở Google Maps
 function openMap2() {
-    window.open('https://maps.app.goo.gl/Z61KJw8RehUqcSaq8', '_blank');
+    window.open('https://maps.app.goo.gl/kEyGuL7uP75KBbbK8', '_blank');
 }
 
 // Hàm mở Google Maps
 function openMap3() {
-    window.open('https://maps.app.goo.gl/ZTQpja9Br7zKVruBA', '_blank');
+    window.open('https://maps.app.goo.gl/Lhqvvh5uwnaETF34A', '_blank');
 }
 
